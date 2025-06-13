@@ -5,6 +5,7 @@
 
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 </h2>
+
 - 🔭 I’m a recently graduated in vocational school with multiplatform diploma and web diploma.
 
 - 📝 I’m currently Working on my own projects (Flutter app mobile at the moment)
